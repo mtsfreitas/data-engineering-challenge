@@ -22,4 +22,4 @@ d) How do different countries compare in terms of sales?
 
 ### Problem 2: Customer Segmentation for Targeted Marketing
 
-The store owner wishes to segment their customers more effectively for targeted marketing campaigns. Devise a solution to create three customer groups based on observed characteristics. Present the solution and justify your decisions. Results will be discussed during the technical interview, and the code used should be submitted once the assessment is complete!
+The store owner wishes to segment their customers more effectively for targeted marketing campaigns. Devise a solution to create three customer groups based on observed characteristics. Present the solution and justify your decisions.
